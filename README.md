@@ -23,7 +23,7 @@ The actual parallelization scheme is not fixed in order to accommodate for diffe
 Reference implementation is based on Megatron-LM codebase and supports "tensor" and pipeline parallelism.
 
 
-### Running
+## Running
 
 Download vocabulary file with `bash download_vocab.sh` in `data` subdirectory.
 
